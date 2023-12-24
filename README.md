@@ -1,4 +1,4 @@
- [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*uZ094Kxwv_qLih3tn9AZ6Q.jpeg)
+ ![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*uZ094Kxwv_qLih3tn9AZ6Q.jpeg)
 <h1 align="center">Hi 👋, I'm Mehmet Akif Kiraz</h1>
 <h3 align="center">A passionate fullstack javascript developer from Turkey</h3>
 
